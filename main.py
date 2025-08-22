@@ -1,5 +1,5 @@
 # Turkish Grand Prix Analysis 2005-2011 2020-2021
-# Analyzes F1 Turkish GP results from Ergast database
+# Analyzes F1 Turkish GP results 
 
 import pandas as pd
 import matplotlib.pyplot as plt
