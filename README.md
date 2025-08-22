@@ -22,7 +22,7 @@ Required CSV files:
 ## Installation
 
 ```bash
-git Clone the repository
+Clone the repository
 cd turkish_gp_list
 pip install pandas matplotlib
 ```
